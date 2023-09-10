@@ -1,0 +1,5 @@
+1A3B78F7844 = Value = 0.7474218011
+181279CE414 -> 181279CE414 + 0 = 1A3B78F7844
+baseptr -> address + offset3 = address
+baseptr -> address + offset2 = address
+static base -> address + offset1 = address

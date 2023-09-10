@@ -1,0 +1,5 @@
+Address = Value = ?
+baseptr -> address + offset4 = address
+baseptr -> address + offset3 = address
+baseptr -> address + offset2 = address
+static base -> address + offset1 = address

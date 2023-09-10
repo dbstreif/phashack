@@ -1,0 +1,5 @@
+22A797975E0 = Value = 20
+baseptr -> 0000022A797975B0 + 30 = 22A797975E0
+baseptr -> address + offset3 = address
+baseptr -> address + offset2 = address
+static base -> address + offset1 = address
